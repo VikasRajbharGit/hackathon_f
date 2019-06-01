@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//Hello there
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -108,8 +108,4 @@ class _MyHomePageState extends State<MyHomePage> {
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
-}
-
-hello(){
-  print('hello');
 }
